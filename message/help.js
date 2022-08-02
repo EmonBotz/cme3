@@ -71,27 +71,6 @@ _*${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'} 👋*_
  ${setting.sb} ${prefix}grupwa
  ${setting.sb} ${prefix}ytsearch
 
- *TEXT PRO MENU*
- ${setting.sb} ${prefix}circuit
- ${setting.sb} ${prefix}sketch
- ${setting.sb} ${prefix}hallowen
- ${setting.sb} ${prefix}rainbow
- ${setting.sb} ${prefix}scfi
- ${setting.sb} ${prefix}blue
- ${setting.sb} ${prefix}juice
- ${setting.sb} ${prefix}purple
- ${setting.sb} ${prefix}toxic
- ${setting.sb} ${prefix}peridot
- ${setting.sb} ${prefix}metal
- ${setting.sb} ${prefix}realistic
- ${setting.sb} ${prefix}impressive
- ${setting.sb} ${prefix}cracked
- ${setting.sb} ${prefix}magma
- ${setting.sb} ${prefix}berry
- ${setting.sb} ${prefix}transformer
- ${setting.sb} ${prefix}horror
- ${setting.sb} ${prefix}metallic
- 
  *GAME MENU*
  ${setting.sb} ${prefix}tictactoe
  ${setting.sb} ${prefix}delttc
