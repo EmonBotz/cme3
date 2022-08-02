@@ -393,9 +393,6 @@ module.exports = async(conn, msg, m, setting, store, welcome) => {
 var teks = `──「 DONASI BOT 」──
 
 Hi ${pushname} 👋🏻
-\`\`\`GOPAY : SCAN QRIS DI ATAS\`\`\`
-\`\`\`OVO : SCAN QRIS DI ATAS\`\`\`
-\`\`\`DANA : SCAN QRIS DI ATAS\`\`\`
 \`\`\`PULSA : ${setting.donasiPulsa}\`\`\`
 
 Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini
