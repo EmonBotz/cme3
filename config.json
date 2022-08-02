@@ -1,21 +1,21 @@
 {
-  "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "botName": "Hitomi MD",
-  "hitokey": "HitomiMd",
-  "youtubeOwner": "https://youtube.com/c/ChristianID99",
-  "web": "https://hitomi-rest-api.herokuapp.com/",
-  "donasiQris": "https://i.ibb.co/f2h3MDQ/Qris.jpg",
-  "donasiPulsa": "0813-2850-7885",
-  "sb": "➸",
-  "footer": "© Hitomi MD 2022",
-  "fake": "HITOMI MULTI DEVICE",
+  "ownerNumber": ["6285799227173@s.whatsapp.net"],
+  "ownerName": ["Emon"],
+  "botName": "BotMeee MD",
+  "hitokey": "CmeMd",
+  "youtubeOwner": "https://youtube.com/c/CallMeEmon",
+  "web": "https://github.com/EmonBotz",
+  "donasiQris": "https://i.ibb.co/xjMYnwh/20220301-221940.jpg",
+  "donasiPulsa": "0857-9922-7173",
+  "sb": "•",
+  "footer": "© BotMeee MD 2022",
+  "fake": "BotMeee Multi Device",
   "sessionName": "hitomi",
   "pathimg": "./media/hitomi.jpg",
   "gamewaktu": 90,
   "limitCount": 30,
   "gcount": {
 	"prem": 99999,
-	"user": 20
+	"user": 10
   }
 }
